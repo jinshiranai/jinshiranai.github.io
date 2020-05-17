@@ -1,0 +1,28 @@
+h1{
+    margin-bottom: 70px;
+}
+  
+.main{
+    margin: auto;
+    border: auto;
+    padding: 50px;
+    font-family: Calibri, arial;
+    
+}
+  
+.audio-div{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 7px;
+    margin: 10px;
+    background: rgba(255,0,0,0.4);
+    width: 275px;
+}
+  
+p{
+    font-size: 25px;
+    padding: 0px 20px;
+    margin: 5px
+}
