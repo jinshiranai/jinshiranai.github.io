@@ -30,7 +30,7 @@ p{
     margin: 5px
 }
 
-@media (max-width: 1000px){
+@media (max-width: 1000px) {
     .audio-div{
     border-color: black;
     border-width: 1px;
@@ -43,4 +43,4 @@ p{
     height: auto;
     display: inline-block;
     }
-  }
+}

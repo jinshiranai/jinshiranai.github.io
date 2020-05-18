@@ -29,3 +29,18 @@ p{
     padding: 0px 20px;
     margin: 5px
 }
+
+@media (max-width: 1000px) {
+    .audio-div{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    padding: 15px 15px 100px 15px;
+    border-radius: 7px;
+    margin: 15px;
+    background: rgba(0,255,0,0.4);
+    width: auto;
+    height: auto;
+    display: inline-block;
+    }
+}
