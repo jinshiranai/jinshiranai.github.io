@@ -18,9 +18,29 @@ h1{
     margin: 50px;
 }
 
-.sun1{background:red;}
-.sun2{background:blue;}
-.sun3{background:green;}
+.sun1{background:red;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.sun2{background:blue;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.sun3{background:green;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 1em;
+}
 
 .splash-grid{
     display: grid;
