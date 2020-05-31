@@ -24,6 +24,7 @@ h1{
     border-style: solid;
     border-radius: 10px;
     padding: 1em;
+    box-shadow: 7px 7px 3px rgba(0,0,0, 0.3);
 }
 
 .sun2{background:rgba(0,0,255,0.4);
@@ -32,6 +33,7 @@ h1{
     border-style: solid;
     border-radius: 10px;
     padding: 1em;
+    box-shadow: 7px 7px 3px rgba(0,0,0, 0.3);
 }
 
 .sun3{background:rgba(0,255,0,0.4);
@@ -40,6 +42,7 @@ h1{
     border-style: solid;
     border-radius: 10px;
     padding: 1em;
+    box-shadow: 7px 7px 3px rgba(0,0,0, 0.3);
 }
 
 .splash-grid{
