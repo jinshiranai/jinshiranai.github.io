@@ -44,3 +44,7 @@ p{
     display: inline-block;
     }
 }
+
+#counter{
+    text-align: right;
+}

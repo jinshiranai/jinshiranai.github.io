@@ -60,3 +60,7 @@ a{color:black;}
 a:hover{color:pink}
 
 a:visited{color:#700070}
+
+#counter{
+    text-align: left;
+}
